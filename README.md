@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔧 I enjoy working with Python, C, Java and am proficient in Blender.<br><br>🎨 I have a strong interest in 3D modeling<br><br>💡 I believe in clean code, continuous learning, and helping others grow.<br><br>🚀 Currently exploring the intersection of programming and real-time 3D experiences.</p>
+<p align="left">🔧 I enjoy working with Python, C, Java and am proficient in Blender.<br><br>🎨 I have a strong interest in 3D modeling.<br><br>💡 I believe in clean code, continuous learning, and helping others grow.<br><br>🚀 Currently exploring the intersection of programming and real-time 3D experiences.</p>
 
 ###
 
